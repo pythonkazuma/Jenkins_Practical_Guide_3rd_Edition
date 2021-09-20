@@ -1,6 +1,6 @@
 libraries{
-    maven
-    //gradle
+    //maven
+    gradle
     //sonarqube
     
     sonarqube{
