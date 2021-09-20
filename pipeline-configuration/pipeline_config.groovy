@@ -4,7 +4,7 @@ libraries{
     //sonarqube
     
     sonarqube{
-      scanner_version = "SonarScanner 3.0"
+      scanner_version = "SonarScanner 4.6"
       enforce_quality_gate = false 
     }
 }
